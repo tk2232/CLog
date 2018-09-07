@@ -1,4 +1,4 @@
-package com.dev.tk2232.clog;
+package com.dev.logutils;
 
 import android.content.Context;
 import android.util.Log;
