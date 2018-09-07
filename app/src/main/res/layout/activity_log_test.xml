@@ -4,6 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dev.tk2232.clog.LogTest">
+    tools:context="com.devtk.tk2232.clog.LogTest">
 
 </android.support.constraint.ConstraintLayout>

@@ -1,4 +1,4 @@
-package com.dev.tk2232.clog;
+package com.devtk.tk2232.clog;
 
 import org.junit.Test;
 

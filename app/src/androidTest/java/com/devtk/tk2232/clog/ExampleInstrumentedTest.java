@@ -1,4 +1,4 @@
-package com.dev.tk2232.clog;
+package com.devtk.tk2232.clog;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.sebastianesau.clog", appContext.getPackageName());
+        assertEquals("com.devtk.tk2232.clog", appContext.getPackageName());
     }
 }

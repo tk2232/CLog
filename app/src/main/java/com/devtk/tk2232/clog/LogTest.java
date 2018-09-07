@@ -1,4 +1,4 @@
-package com.dev.tk2232.clog;
+package com.devtk.tk2232.clog;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

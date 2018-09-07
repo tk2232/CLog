@@ -1,4 +1,4 @@
-package com.dev.logutils;
+package com.devtk.logutils;
 
 import org.junit.Test;
 

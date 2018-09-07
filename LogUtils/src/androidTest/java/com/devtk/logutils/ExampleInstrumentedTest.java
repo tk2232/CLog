@@ -1,4 +1,4 @@
-package com.dev.logutils;
+package com.devtk.logutils;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
