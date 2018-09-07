@@ -10,9 +10,13 @@ Install:
 	}
   
   
-  
-  implementation 'com.github.tk2232:CLog:v0.1'
+```
+  dependencies {
+	        implementation 'com.github.tk2232:CLog:v0.1'
+	}
+```
   
 Configuration:
-
-CLog.configuration().logWithConsole(true).logWithConsole(true);
+```
+CLog.configuration().logWithConsole(true).logWithFirebase(true);
+```
